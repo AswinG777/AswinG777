@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aswin.G
+- 👀 I know basics of HTML, CSS, C, Python
+- 🌱 I’m currently learning C++
